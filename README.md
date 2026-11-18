@@ -1,4 +1,4 @@
-# Hola, soy Daniel Gallardo (`@Daniii205`) 👋
+# Hola, soy Daniel Gallardo 👋
 
 Desarrollador de Aplicaciones Multiplataforma en formación (**2º DAM**) y Técnico en Sistemas Microinformáticos y Redes (**SMR**). Me apasiona crear software funcional, diseñar interfaces limpias centradas en la experiencia de usuario (UI/UX) y resolver problemas técnicos combinando código y sistemas.
 
